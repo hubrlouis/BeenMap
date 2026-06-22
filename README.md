@@ -4,3 +4,5 @@ L'app comprend diverses fonctionnalités comme l'ajout du pays visité par le cl
 
 # En images
 <img width="1918" height="862" alt="Sur ordinateur" src="https://github.com/user-attachments/assets/343160d1-1795-4cb4-9683-b7a19530d65e" />
+
+<img width="1170" height="2391" alt="Sur mobile" src="https://github.com/user-attachments/assets/6e4ae38c-193c-4054-bd10-63c23be9e1f3" />
